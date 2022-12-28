@@ -1,8 +1,9 @@
 # DEEP-Laby
 
+## Project Description
 explain the project
 
-# Authenticate before pushing
+## Authenticate before pushing
 - Generate new access token via Github -> Settings/Developer settings/Personal access tokens/Tokens (classic)
 - Copy the token
 - In CLI:
